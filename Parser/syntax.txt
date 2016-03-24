@@ -1,0 +1,21 @@
+ @ comment.
+@@ block
+   comment
+@@
+
+var @@ is a global variable @@ = @@ with odd initialization @@ 9
+
+@ Region global 
+variableString = "hej"
+variableInt = 12345
+variableDecimal  = 123.45 
+variableBool = true
+
+[Screen]
+w = 1080 @Screen width.
+h = 720 @ Screen height. @@@@
+
+[Resources]
+texture_path = "resources/textures/"
+audio_path = "resources/audio/"
+string_path = "resources/text/"
